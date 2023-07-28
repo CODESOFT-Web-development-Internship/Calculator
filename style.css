@@ -2,8 +2,9 @@
 
 * {
     margin: 0;
-    padding: 0;
+    padding: 0px;
     box-sizing: border-box;
+    
 }
 
 :root {
@@ -44,6 +45,7 @@ body {
 .crossCenter{
     align-items: center;
 }
+
 .row{
     display: flex;
 }
